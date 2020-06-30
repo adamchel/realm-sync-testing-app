@@ -3,7 +3,6 @@
     "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "Cluster0",
         "readPreference": "primary",
         "sync": {
             "state": "enabled",
