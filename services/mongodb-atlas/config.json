@@ -4,17 +4,6 @@
     "type": "mongodb-atlas",
     "config": {
         "readPreference": "primary",
-        "sync": {
-            "state": "enabled",
-            "partition": {
-                "key": "prop",
-                "type": "string",
-                "permissions": {
-                    "read": true,
-                    "write": true
-                }
-            }
-        },
         "wireProtocolEnabled": false
     },
     "version": 1
