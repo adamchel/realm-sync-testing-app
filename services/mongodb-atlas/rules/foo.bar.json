@@ -1,5 +1,4 @@
 {
-    "id": "5eeb6f3cbe4b8db6e049dea0",
     "database": "foo",
     "collection": "bar",
     "relationships": {
@@ -24,11 +23,11 @@
             "_id": {
                 "bsonType": "objectId"
             },
-            "prop": {
-                "bsonType": "string"
-            },
             "linkToBaz": {
                 "bsonType": "objectId"
+            },
+            "prop": {
+                "bsonType": "string"
             }
         }
     }
