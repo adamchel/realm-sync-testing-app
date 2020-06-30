@@ -1,5 +1,6 @@
 exports = function(changeEvent) {
   /*
+    ONLY CHANGED COMMENTS
     A Database Trigger will always call a function with a changeEvent.
     Documentation on ChangeEvents: https://docs.mongodb.com/manual/reference/change-events/
 
